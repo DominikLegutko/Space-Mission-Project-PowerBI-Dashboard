@@ -1,16 +1,28 @@
 # Space-Mission-Project-PowerBI-Dashboard
 
-# Project Description
+## Project Description
 This project analyzes space mission data. The analysis is conducted using Power BI, a powerful data visualization tool, to explore and understand various aspects of space missions.
 
-# Main Goals and Questions
-Rocket Launch Trends: How have rocket launches trended over time? Has the mission success rate increased?
+## Tools
 
-Companies with Most Successful Missions: Which company have had the most successful space missions? Has this trend remained consistent?
+- **Data Analysis Tool:** Power BI
+- **Dataset:** `space_mission.csv`
+  
+## Main Goals and Questions
 
-Most Frequently Used Rockets: Which rockets have been used for the most space missions? Are they still active?
+**Rocket Launch Trends:**
+- How have rocket launches trended over time? Has the mission success rate increased?
 
-Launch Location Patterns: Are there any noticeable patterns in launch locations?
+**Companies with Most Successful Missions:**
+- Which company has had the most successful space missions? Has this trend remained consistent?
+
+**Most Frequently Used Rockets:**
+- Which rockets have been used for the most space missions? Are they still active?
+
+**Launch Location Patterns:**
+- Are there any noticeable patterns in launch locations?
+Możesz skopiować powyższy tekst i wkleić go do pliku README na GitHubie. Tekst ten utrzyma formatowanie w formie pogrubień i list, zachowując czytelność.
+
 
 ### Dashboard Creation Plan and Schema
 
