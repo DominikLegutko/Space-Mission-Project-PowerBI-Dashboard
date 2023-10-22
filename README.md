@@ -21,7 +21,6 @@ This project analyzes space mission data. The analysis is conducted using Power 
 
 **Launch Location Patterns:**
 - Are there any noticeable patterns in launch locations?
-Możesz skopiować powyższy tekst i wkleić go do pliku README na GitHubie. Tekst ten utrzyma formatowanie w formie pogrubień i list, zachowując czytelność.
 
 
 ### Dashboard Creation Plan and Schema
