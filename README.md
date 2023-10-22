@@ -23,7 +23,7 @@ This project analyzes space mission data. The analysis is conducted using Power 
 - Are there any noticeable patterns in launch locations?
 
 
-### Dashboard Creation Plan and Schema
+## Dashboard Creation Plan and Schema
 
 1. **Data Acquisition:**
    - Retrieve data from the mavesanalitycs website or load the `space_mission.csv` file.
